@@ -19,7 +19,6 @@
 - 🌐 A bit of experience with **Microservices** (service communication, basic deployment)
 - 👯 Looking to collaborate on backend projects, API development, and system design
 - 💬 Ask me about: ASP.NET Core, Spring Boot, REST API, SQL Server, MySQL, Clean Architecture
-- 📫 How to reach me: *(add your email/LinkedIn here)*
 - ⚡ Fun fact: I enjoy turning messy code into clean, layered architecture 😄
 
 ---
