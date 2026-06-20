@@ -4,7 +4,7 @@
 
 ### Backend Developer | ASP.NET & Spring Boot
 
-[![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)](https://github.com/JavaTech04)
+
 
 </div>
 
@@ -64,6 +64,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenDuyAnh-dev&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuyAnh-dev&layout=compact&theme=tokyonight)
+
+[![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)](https://github.com/JavaTech04)
 
 ---
 
